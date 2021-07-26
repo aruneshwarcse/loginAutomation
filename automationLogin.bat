@@ -1,0 +1,1 @@
+C:\Users\HP\AppData\Local\Programs\Python\Python38\python.exe "C:/Users/HP/Desktop/arunesh/arunesh/automation/app.py"
